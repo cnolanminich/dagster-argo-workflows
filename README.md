@@ -33,5 +33,9 @@ On MacOS:
 Get started
 `dagster dev`
 
+What the logs look like for an Argo asset: 
+
+<img width="1593" alt="image" src="https://github.com/cnolanminich/dagster-argo-workflows/assets/12430096/ef51d011-8ebd-4149-b48f-6aa442cb2bc0">
+
 
 
